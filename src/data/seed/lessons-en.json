@@ -1,0 +1,147 @@
+[
+  {
+    "lessonId": "science-photosynthesis",
+    "language": "en",
+    "subject": "science",
+    "grade": "7",
+    "difficulty": "beginner",
+    "title": "Photosynthesis: How Plants Make Food",
+    "summary": "Plants use sunlight, water, and carbon dioxide to make glucose and release oxygen. This process is called photosynthesis.",
+    "body": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. The green pigment chlorophyll, found in chloroplasts, absorbs sunlight. Using that energy, the plant combines carbon dioxide from the air with water absorbed by the roots to produce glucose (a sugar) and oxygen. The glucose is used for growth or stored as starch; the oxygen is released into the atmosphere. Without photosynthesis, most life on Earth would not exist, because it is the entry point for energy into almost every food chain.",
+    "examples": [
+      "A leaf exposed to sunlight for a few hours produces measurable oxygen.",
+      "Aquatic plants such as Elodea release visible oxygen bubbles when illuminated."
+    ],
+    "practiceQuestions": [
+      "What gas do plants absorb during photosynthesis?",
+      "Where in the plant cell does photosynthesis take place?"
+    ]
+  },
+  {
+    "lessonId": "science-water-cycle",
+    "language": "en",
+    "subject": "science",
+    "grade": "7",
+    "difficulty": "beginner",
+    "title": "The Water Cycle",
+    "summary": "Water moves between the ocean, atmosphere, and land through evaporation, condensation, precipitation, and collection.",
+    "body": "The water cycle describes how water continuously moves through the environment. The Sun heats water in oceans, lakes, and rivers, causing evaporation — water turns into vapour and rises. As the vapour cools at higher altitudes, it condenses into tiny droplets that form clouds. When droplets combine and become heavy enough, they fall as precipitation (rain, snow, or hail). The water then collects in rivers, lakes, and underground reservoirs, or is absorbed by plants, before the cycle repeats. Transpiration from plants is an additional pathway by which water vapour enters the atmosphere.",
+    "examples": [
+      "Morning dew on grass is condensed water vapour.",
+      "Rain falling on a mountain eventually returns to the ocean through rivers."
+    ],
+    "practiceQuestions": [
+      "Name the process by which water vapour turns into liquid droplets.",
+      "What role does the Sun play in the water cycle?"
+    ]
+  },
+  {
+    "lessonId": "mathematics-fractions",
+    "language": "en",
+    "subject": "mathematics",
+    "grade": "6",
+    "difficulty": "beginner",
+    "title": "Introduction to Fractions",
+    "summary": "A fraction represents a part of a whole. It has a numerator and a denominator.",
+    "body": "A fraction is written as a numerator over a denominator, such as 3/4. The denominator (bottom number) tells how many equal parts the whole is divided into. The numerator (top number) tells how many of those parts are being considered. Two fractions are equivalent if multiplying the numerator and denominator of one by the same number gives the other (for example, 1/2 = 2/4 = 4/8). To add or subtract fractions with different denominators, first find a common denominator, then combine the numerators. A proper fraction has a numerator smaller than its denominator; an improper fraction has a numerator greater than or equal to its denominator.",
+    "examples": [
+      "If a pizza is cut into 8 slices and you eat 3, you have eaten 3/8 of the pizza.",
+      "1/2 + 1/4 = 2/4 + 1/4 = 3/4."
+    ],
+    "practiceQuestions": [
+      "Which is larger: 2/3 or 3/5?",
+      "Write two fractions equivalent to 1/3."
+    ]
+  },
+  {
+    "lessonId": "mathematics-perimeter-area",
+    "language": "en",
+    "subject": "mathematics",
+    "grade": "7",
+    "difficulty": "intermediate",
+    "title": "Perimeter and Area of Rectangles",
+    "summary": "Perimeter is the distance around a shape; area is the space it covers.",
+    "body": "For a rectangle of length l and width w, the perimeter is 2(l + w) and the area is l × w. Perimeter is measured in linear units (metres, centimetres), while area is measured in square units (square metres, square centimetres). These formulas are the foundation for many real-world problems, including measuring fencing needed for a field and paint needed for a wall. A square is a special rectangle where l = w, so its perimeter is 4s and its area is s².",
+    "examples": [
+      "A rectangle 6 m long and 4 m wide has perimeter 20 m and area 24 m².",
+      "A square with side 5 cm has perimeter 20 cm and area 25 cm²."
+    ],
+    "practiceQuestions": [
+      "What is the area of a rectangle with length 9 cm and width 4 cm?",
+      "If a square has area 36 m², what is its perimeter?"
+    ]
+  },
+  {
+    "lessonId": "english-parts-of-speech",
+    "language": "en",
+    "subject": "english",
+    "grade": "6",
+    "difficulty": "beginner",
+    "title": "The Eight Parts of Speech",
+    "summary": "English words are grouped into eight categories based on their function in a sentence.",
+    "body": "The eight parts of speech are nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, and interjections. A noun names a person, place, thing, or idea. A pronoun replaces a noun. A verb expresses action or state of being. An adjective describes a noun. An adverb describes a verb, adjective, or another adverb. A preposition shows the relationship between a noun and another word (in, on, under). A conjunction joins words or clauses (and, but, because). An interjection expresses sudden emotion (oh, wow). Recognising these categories helps in constructing clear sentences and in reading unfamiliar text.",
+    "examples": [
+      "In 'The quick fox jumps over the lazy dog', the nouns are fox and dog.",
+      "In 'She runs quickly', runs is a verb and quickly is an adverb."
+    ],
+    "practiceQuestions": [
+      "Identify the adjective in: 'A tall tree stood there.'",
+      "What is the role of a conjunction?"
+    ]
+  },
+  {
+    "lessonId": "english-simple-present",
+    "language": "en",
+    "subject": "english",
+    "grade": "7",
+    "difficulty": "beginner",
+    "title": "Simple Present Tense",
+    "summary": "The simple present describes habits, routines, and general truths.",
+    "body": "The simple present tense is used for actions that happen regularly, facts that are always true, and scheduled events. For most subjects, the verb takes its base form (I walk). For third-person singular subjects (he, she, it), the verb adds -s or -es (he walks, she watches). Negatives use do not / does not plus the base verb. Questions use do / does at the beginning. Time expressions like every day, usually, and always are common with this tense.",
+    "examples": [
+      "She reads a book every evening.",
+      "Water boils at 100 degrees Celsius.",
+      "He does not like coffee."
+    ],
+    "practiceQuestions": [
+      "Change to simple present: 'They (play) football on Sundays.'",
+      "Form a question from: 'She speaks Tamil.'"
+    ]
+  },
+  {
+    "lessonId": "computer-basics-what-is-computer",
+    "language": "en",
+    "subject": "computer-basics",
+    "grade": "6",
+    "difficulty": "beginner",
+    "title": "What Is a Computer?",
+    "summary": "A computer is an electronic device that accepts input, processes it, and produces output.",
+    "body": "A computer is a programmable machine that takes input from users or sensors, processes it according to instructions (a program), and produces output. The main hardware components are the processor (CPU), memory (RAM), storage (hard disk or SSD), input devices (keyboard, mouse), and output devices (monitor, printer). Software, the programs that run on the hardware, is divided into system software (operating systems) and application software (word processors, browsers, games). Together, hardware and software form a complete computer system.",
+    "examples": [
+      "A laptop is a computer with built-in input, output, and processing components.",
+      "A smartphone is a computer with a touchscreen as its primary input device."
+    ],
+    "practiceQuestions": [
+      "Name three input devices.",
+      "What is the difference between RAM and storage?"
+    ]
+  },
+  {
+    "lessonId": "computer-basics-internet",
+    "language": "en",
+    "subject": "computer-basics",
+    "grade": "8",
+    "difficulty": "beginner",
+    "title": "How the Internet Works",
+    "summary": "The internet is a global network of computers that exchange data using agreed protocols.",
+    "body": "The internet is a network of networks. Computers communicate using the Internet Protocol (IP), which gives each device a unique address. When you visit a website, your browser uses the Domain Name System (DNS) to translate the site's name into an IP address, then sends a request to the server hosting the site. The server responds with the content, which your browser renders. Data is broken into packets that may travel different routes and are reassembled at the destination. Protocols such as TCP ensure reliable delivery, while HTTPS encrypts traffic between your browser and the server.",
+    "examples": [
+      "Typing a URL triggers a DNS lookup, then a request to the server, then rendering.",
+      "Video streaming relies on many small packets arriving in the right order."
+    ],
+    "practiceQuestions": [
+      "What does DNS do?",
+      "Why is HTTPS preferred over HTTP for websites handling passwords?"
+    ]
+  }
+]

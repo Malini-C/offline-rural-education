@@ -1,0 +1,122 @@
+.chat {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    padding: var(--space-4);
+    min-height: 420px;
+}
+
+.chat__thread {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    max-height: 60vh;
+    overflow-y: auto;
+    padding-right: var(--space-2);
+}
+
+.message-bubble {
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    max-width: 90%;
+    white-space: pre-wrap;
+}
+
+.message-bubble--user {
+    align-self: flex-end;
+    background-color: var(--color-primary);
+    color: #ffffff;
+    border-bottom-right-radius: 4px;
+}
+
+.message-bubble--assistant {
+    align-self: flex-start;
+    background-color: var(--color-primary-light);
+    color: var(--color-text);
+    border-bottom-left-radius: 4px;
+}
+
+.message-bubble__text {
+    margin: 0;
+}
+
+.message-bubble__intro {
+    font-weight: 600;
+    margin: 0 0 var(--space-2);
+}
+
+.message-bubble__passage {
+    margin: 0 0 var(--space-2);
+}
+
+.message-bubble__source-note {
+    font-size: 0.8rem;
+    margin-top: var(--space-2);
+}
+
+.source-citation {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.source-citation__label {
+    color: var(--color-text-muted);
+}
+
+.chat__suggestions {
+    border-top: 1px dashed var(--color-border);
+    padding-top: var(--space-3);
+}
+
+.chat__suggestion-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+}
+
+.chat__suggestion {
+    background-color: transparent;
+    border: 1px solid var(--color-primary);
+    color: var(--color-primary);
+    border-radius: 999px;
+    padding: var(--space-1) var(--space-3);
+    font: inherit;
+    font-size: 0.85rem;
+    cursor: pointer;
+}
+
+.chat__suggestion:hover {
+    background-color: var(--color-primary-light);
+}
+
+.chat__composer {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+    border-top: 1px solid var(--color-border);
+    padding-top: var(--space-3);
+}
+
+.chat__composer-label {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+}
+
+.chat__composer textarea {
+    font: inherit;
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    resize: vertical;
+    background-color: var(--color-surface);
+    color: var(--color-text);
+}
+
+@media (max-width: 640px) {
+    .message-bubble {
+        max-width: 100%;
+    }
+}
