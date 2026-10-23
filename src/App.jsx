@@ -3,7 +3,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import { DatabaseProvider } from "./contexts/DatabaseContext.jsx";
 import { LanguageProvider } from "./contexts/LanguageContext.jsx";
 import AppShell from "./components/Layout/AppShell.jsx";
-import SkipLink from "./components/Layout/skipLink.jsx";
+import SkipLink from "./components/Layout/SkipLink.jsx";
 import HomePage from "./pages/HomePage.jsx";
 import LibraryPage from "./pages/LibraryPage.jsx";
 import LessonPage from "./pages/LessonPage.jsx";
